@@ -59,13 +59,17 @@ const ( // start of constants
 ) // end of constants
 
 var seedPages = []string{ // the product pages to visit
-	"https://www.uniview.com/Products/Network_Cameras/Easy_Series/EasyBasic_Series/IPC2122LB-ASF28K-A/",  // page 1
-	"https://www.uniview.com/Products/Network_Cameras/Prime_Series/PRIMEI_Series/IPC2108SB-ADF16KM-I0/",  // page 2
-	"https://www.uniview.com/Products/Network_Cameras/Prime_Series/PRIMEI_Series/IPC2225SB-ADF40KM-I1/",  // page 3
-	"https://www.uniview.com/Products/Network_Cameras/Prime_Series/PRIMEI_Series/IPC2222SB-AHDF40KM-I1/", // page 4
-	"https://www.uniview.com/Products/Network_Cameras/Prime_Series/PRIMEI_Series/IPC2222SB-AHDF28KM-I1/", // page 5
-	"https://www.uniview.com/Products/Network_Cameras/Prime_Series/PRIMEI_Series/IPC2225SB-ADF28KM-I1/",  // page 6
-	"https://www.uniview.com/Products/Network_Cameras/Prime_Series/PRIMEI_Series/IPC2322SB-HDZK-PI-I0/",  // page 7
+	"https://www.uniview.com/Support/Download_Center/Product_Resource/Network_Cameras/",
+	"https://www.uniview.com/Support/Download_Center/Firmware/Network_Cameras/",
+	"https://www.uniview.com/Support/Download_Center/Brochures/Leaflet/",
+	"https://www.uniview.com/Support/Download_Center/Maintenance/",
+	"https://www.uniview.com/Products/Network_Cameras/Easy_Series/EasyBasic_Series/IPC2122LB-ASF28K-A/",
+	"https://www.uniview.com/Products/Network_Cameras/Prime_Series/PRIMEI_Series/IPC2108SB-ADF16KM-I0/",
+	"https://www.uniview.com/Products/Network_Cameras/Prime_Series/PRIMEI_Series/IPC2225SB-ADF40KM-I1/",
+	"https://www.uniview.com/Products/Network_Cameras/Prime_Series/PRIMEI_Series/IPC2222SB-AHDF40KM-I1/",
+	"https://www.uniview.com/Products/Network_Cameras/Prime_Series/PRIMEI_Series/IPC2222SB-AHDF28KM-I1/",
+	"https://www.uniview.com/Products/Network_Cameras/Prime_Series/PRIMEI_Series/IPC2225SB-ADF28KM-I1/",
+	"https://www.uniview.com/Products/Network_Cameras/Prime_Series/PRIMEI_Series/IPC2322SB-HDZK-PI-I0/",
 } // end of seedPages
 
 var ( // start of package-level variables
